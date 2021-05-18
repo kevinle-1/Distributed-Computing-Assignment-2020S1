@@ -1,0 +1,39 @@
+﻿<!--
+ Filename: transactions.html
+ Project:  DC Assignment (COMP3008)
+ Purpose:  HTML for Transactions Web view
+ Author:   Kevin Le (19472960)
+
+ Date:     24/05/2020
+-->
+
+
+<h1>
+    Transactions
+</h1>
+
+<div class="TransactionSend">
+    <h2>
+        Send Money
+    </h2>
+
+    <input type="number" min="0" step="1" id="senderId" placeholder="From Account ID" /><br>
+    <input type="number" min="0" step="1" id="recieveId" placeholder="To Account ID" /><br>
+    <input type="number" min="0" step="1" id="amount" placeholder="Amount" /><br>
+
+    <button id="submitBtn" onclick="Send()">Send</button>
+</div>
+
+<div class="TransactionDetails">
+    <h2>
+        Get Transaction Details
+    </h2>
+
+    <input type="number" min="0" step="1" id="id" placeholder="Transaction ID" /><br>
+
+    <span><strong>From: </strong></span><span id="from"></span><br>
+    <span><strong>To: </strong></span><span id="to"></span><br>
+    <span><strong>Amount: </strong></span><span id="amount"></span><br>
+
+    <button id="submitBtn" onclick="GetTransactionDetails()">Find</button>
+</div>

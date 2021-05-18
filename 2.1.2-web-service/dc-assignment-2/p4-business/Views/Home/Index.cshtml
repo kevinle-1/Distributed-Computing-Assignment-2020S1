@@ -1,0 +1,51 @@
+﻿<!--
+ Filename: Index.cshtml
+ Project:  DC Assignment (COMP3008)
+ Purpose:  Index HTML page
+ Author:   Kevin Le (19472960)
+
+ Date:     24/05/2020
+-->
+
+@{
+    ViewBag.Title = "Bank Inc. (Not Evil)";
+}
+
+<script src="~/Scripts/bank.js"></script> <!--Functions for each section-->
+<link href="~/Static/style.css" rel="stylesheet" type="text/css" />
+
+<script>
+    function GetPage(page) //Single web application with AJAX + JQuery to switch between pages 
+    {
+        console.log("Getting page: " + page);
+
+		$.ajax({
+			url: page,
+			type: 'get',
+			processData: false,
+            success: function (data, textStatus, jQxhr)
+            {
+				$(".Content").html(data);
+			},
+            error: function (jqXhr, textStatus, errorThrown)
+            {
+				console.log("Error: Could not load page > " + errorThrown);
+			}
+		});
+    }
+</script>
+
+<body>
+    <div class="Introduction">
+        <h1>Bank Inc. Netbanking</h1>
+        <h2>Welcome! Please select an option below</h2>
+
+        <!--Pages to load-->
+        <button onclick="GetPage('/Static/users.html')">Manage Users</button>
+        <button onclick="GetPage('/Static/accounts.html')">Manage Accounts</button>
+        <button onclick="GetPage('/Static/transactions.html')">Perform Transactions</button>
+    </div>
+
+    <div class="Content"></div>
+</body>
+

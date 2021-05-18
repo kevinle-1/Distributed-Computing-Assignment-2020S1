@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "The Movie DB";
+}
+
+<!--
+Filename: Index.cshtml
+Project:  DC Assignment 2020
+Purpose:  The Media DB index page.
+Author:   Kevin Le (19472960)
+
+Date:     25/05/2020
+-->
+
+<div>
+    <h1>The Media DB</h1>
+    <!--Add Button-->
+    <button onclick="location.href='@Url.Action("Add", "Home")'" class="btn btn-info border rounded-0" type="button" style="margin-top: 20px;">Add Media Listing</button></a>
+    <div style="margin-top: 20px;">
+        
+        <!--Search Field-->
+        <div class="input-group" style="padding: 2px;width: 70%">
+            <div class="input-group-prepend"></div>
+            <input id="query" class="form-control" type="text" placeholder="Search media!" style="width: 50%;">
+            <div class="input-group-append">
+                <button onclick="search()" class="btn btn-success border rounded-0" type="button">Search</button>
+            </div>
+        </div>
+
+        <!--Search Query Text-->
+        <p id="queryString" style="padding: 10px;"></p>
+
+        <!--Media Table-->
+        <div class="media">
+            <table id="mediatable" class="table">
+                <thead>
+                    <tr>
+                        <th style="width: 2%;">Poster</th>
+                        <th style="width: 60%;">Information</th>
+                        <th style="width: 20%;">Type</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+
+        <!--Comment Table-->
+        <div class="comments">
+            <table id="commenttable" class="table">
+                <thead>
+                    <tr>
+                        <th style="width: 60%;font-family: Roboto, sans-serif;">Comments</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+            <!--Comment Form-->
+            <div>
+                <input id="commenterName" type="text" style="margin-left: 10px; margin-top: 10px; width: 30%" placeholder="Name"><br />
+                <input id="commenterText" type="text" style="margin-left: 10px; margin-top: 10px; width: 100%" placeholder="Comment"><br />
+                <button onclick="addComment()" style="margin-left: 10px; margin-top: 10px" class="btn btn-success border rounded-0" type="button">Comment</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,156 @@
+14/05/2020 14:10:29Business | Task: Creating user with details: pesto, testo
+14/05/2020 14:10:29Business | Tasks performed so far: 1
+14/05/2020 14:10:30Business | Task: Submitting request to save state to disk...
+14/05/2020 14:10:30Business | Tasks performed so far: 2
+14/05/2020 14:11:22Business | Task: Getting user details for ID: 419491121
+14/05/2020 14:11:22Business | Tasks performed so far: 3
+14/05/2020 14:11:38Business | Task: Changing user name for ID: 419491121 to: Peston, Teston
+14/05/2020 14:11:38Business | Tasks performed so far: 4
+14/05/2020 14:11:38Business | Task: Submitting request to save state to disk...
+14/05/2020 14:11:38Business | Tasks performed so far: 5
+24/05/2020 14:39:52 Business | Task: Creating user with details: Testo, Pesto
+24/05/2020 14:39:52 Business | Tasks performed so far: 1
+24/05/2020 14:39:53 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:39:53 Business | Tasks performed so far: 2
+24/05/2020 14:40:08 Business | Task: Getting user details for ID: 8080273
+24/05/2020 14:40:08 Business | Tasks performed so far: 3
+24/05/2020 14:40:13 Business | Task: Changing user name for ID: 8080273 to: Test, TE
+24/05/2020 14:40:13 Business | Tasks performed so far: 4
+24/05/2020 14:40:13 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:40:13 Business | Tasks performed so far: 5
+24/05/2020 14:40:15 Business | Task: Opening account for user ID: 8080273
+24/05/2020 14:40:15 Business | Tasks performed so far: 6
+24/05/2020 14:40:15 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:40:15 Business | Tasks performed so far: 7
+24/05/2020 14:40:23 Business | Task: Getting account details for ID: 434803569
+24/05/2020 14:40:23 Business | Tasks performed so far: 8
+24/05/2020 14:40:27 Business | Task: Depositing $500 for: 434803569
+24/05/2020 14:40:27 Business | Tasks performed so far: 9
+24/05/2020 14:40:27 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:40:27 Business | Tasks performed so far: 10
+24/05/2020 14:40:29 Business | Task: Getting account details for ID: 434803569
+24/05/2020 14:40:29 Business | Tasks performed so far: 11
+24/05/2020 14:40:31 Business | Task: Withdrawing $50 from: 434803569
+24/05/2020 14:40:31 Business | Tasks performed so far: 12
+24/05/2020 14:40:32 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:40:32 Business | Tasks performed so far: 13
+24/05/2020 14:40:32 Business | Task: Getting account details for ID: 434803569
+24/05/2020 14:40:32 Business | Tasks performed so far: 14
+24/05/2020 14:41:21 Business | Task: Opening account for user ID: 529492179
+24/05/2020 14:41:21 Business | Tasks performed so far: 15
+24/05/2020 14:41:21 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:41:21 Business | Tasks performed so far: 16
+24/05/2020 14:41:30 Business | Task: Getting account details for ID: 735591217
+24/05/2020 14:41:30 Business | Tasks performed so far: 17
+24/05/2020 14:41:32 Business | Task: Withdrawing $6000 from: 735591217
+24/05/2020 14:41:32 Business | Tasks performed so far: 18
+24/05/2020 14:41:33 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:41:33 Business | Tasks performed so far: 19
+24/05/2020 14:41:34 Business | Task: Depositing $6000 for: 735591217
+24/05/2020 14:41:34 Business | Tasks performed so far: 20
+24/05/2020 14:41:34 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:41:34 Business | Tasks performed so far: 21
+24/05/2020 14:41:47 Business | Task: Sending $50 from user account ID: 735591217 to: 434803569
+24/05/2020 14:41:47 Business | Tasks performed so far: 22
+24/05/2020 14:41:48 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:41:48 Business | Tasks performed so far: 23
+24/05/2020 14:41:55 Business | Task: Getting transaction details for transaction ID: 954078448
+24/05/2020 14:41:55 Business | Tasks performed so far: 24
+24/05/2020 14:41:59 Business | Task: Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:41:59 Business | Tasks performed so far: 25
+24/05/2020 14:41:59 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:41:59 Business | Tasks performed so far: 26
+24/05/2020 14:42:00 Business | Task: Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:00 Business | Tasks performed so far: 27
+24/05/2020 14:42:00 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:42:00 Business | Tasks performed so far: 28
+24/05/2020 14:42:00 Business | Task: Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:00 Business | Tasks performed so far: 29
+24/05/2020 14:42:00 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:42:00 Business | Tasks performed so far: 30
+24/05/2020 14:42:00 Business | Task: Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:00 Business | Tasks performed so far: 31
+24/05/2020 14:42:00 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:42:00 Business | Tasks performed so far: 32
+24/05/2020 14:42:01 Business | Task: Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:01 Business | Tasks performed so far: 33
+24/05/2020 14:42:01 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:42:01 Business | Tasks performed so far: 34
+24/05/2020 14:42:01 Business | Task: Getting transaction details for transaction ID: 954078448
+24/05/2020 14:42:01 Business | Tasks performed so far: 35
+24/05/2020 14:42:08 Business | Task: Getting transaction details for transaction ID: 591142441
+24/05/2020 14:42:08 Business | Tasks performed so far: 36
+24/05/2020 14:42:17 Business | Task: Getting transaction details for transaction ID: 591142441
+24/05/2020 14:42:17 Business | Tasks performed so far: 37
+24/05/2020 14:42:26 Business | Task: Sending $7 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:26 Business | Tasks performed so far: 38
+24/05/2020 14:42:26 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:42:26 Business | Tasks performed so far: 39
+24/05/2020 14:42:27 Business | Task: Getting transaction details for transaction ID: 591142441
+24/05/2020 14:42:27 Business | Tasks performed so far: 40
+24/05/2020 14:42:30 Business | Task: Getting transaction details for transaction ID: 293808305
+24/05/2020 14:42:30 Business | Tasks performed so far: 41
+24/05/2020 14:44:23 Business | Task: Getting account details for ID: 434803569
+24/05/2020 14:44:23 Business | Tasks performed so far: 1
+24/05/2020 14:44:41 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:41 Business | Tasks performed so far: 2
+24/05/2020 14:44:41 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:44:41 Business | Tasks performed so far: 3
+24/05/2020 14:44:44 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:44 Business | Tasks performed so far: 4
+24/05/2020 14:44:44 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:44:44 Business | Tasks performed so far: 5
+24/05/2020 14:44:46 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:46 Business | Tasks performed so far: 6
+24/05/2020 14:44:46 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:44:46 Business | Tasks performed so far: 7
+24/05/2020 14:44:47 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:47 Business | Tasks performed so far: 8
+24/05/2020 14:44:47 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:44:47 Business | Tasks performed so far: 9
+24/05/2020 14:44:48 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:48 Business | Tasks performed so far: 10
+24/05/2020 14:44:48 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:44:48 Business | Tasks performed so far: 11
+24/05/2020 14:44:50 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:50 Business | Tasks performed so far: 12
+24/05/2020 14:44:50 Business | Task: Submitting request to process transactions...
+24/05/2020 14:44:50 Business | Tasks performed so far: 13
+24/05/2020 14:44:50 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:44:50 Business | Tasks performed so far: 14
+24/05/2020 14:45:08 Business | Task: Getting account details for ID: 735591217
+24/05/2020 14:45:08 Business | Tasks performed so far: 15
+24/05/2020 14:45:13 Business | Task: Getting account details for ID: 434803569
+24/05/2020 14:45:13 Business | Tasks performed so far: 16
+24/05/2020 14:45:15 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:15 Business | Tasks performed so far: 17
+24/05/2020 14:45:15 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:45:15 Business | Tasks performed so far: 18
+24/05/2020 14:45:16 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:16 Business | Tasks performed so far: 19
+24/05/2020 14:45:16 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:45:16 Business | Tasks performed so far: 20
+24/05/2020 14:45:16 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:16 Business | Tasks performed so far: 21
+24/05/2020 14:45:16 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:45:16 Business | Tasks performed so far: 22
+24/05/2020 14:45:18 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:18 Business | Tasks performed so far: 23
+24/05/2020 14:45:18 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:45:18 Business | Tasks performed so far: 24
+24/05/2020 14:45:27 Business | Task: Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:27 Business | Tasks performed so far: 25
+24/05/2020 14:45:27 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:45:27 Business | Tasks performed so far: 26
+24/05/2020 14:45:34 Business | Task: Sending $3 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:34 Business | Tasks performed so far: 27
+24/05/2020 14:45:34 Business | Task: Submitting request to process transactions...
+24/05/2020 14:45:34 Business | Tasks performed so far: 28
+24/05/2020 14:45:34 Business | Task: Submitting request to save state to disk...
+24/05/2020 14:45:34 Business | Tasks performed so far: 29
+24/05/2020 14:45:41 Business | Task: Getting account details for ID: 434803569
+24/05/2020 14:45:41 Business | Tasks performed so far: 30
+29/05/2020 13:25:43 Business | Task: Creating user with details: Kev, Tes
+29/05/2020 13:25:43 Business | Tasks performed so far: 1
+29/05/2020 13:25:44 Business | Task: Submitting request to save state to disk...
+29/05/2020 13:25:44 Business | Tasks performed so far: 2

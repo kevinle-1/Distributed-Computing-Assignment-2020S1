@@ -1,0 +1,262 @@
+14/05/2020 14:10:30Data | Task: [UserController] Input sanitized to: pesto
+14/05/2020 14:10:30Data | Tasks performed so far: 1
+14/05/2020 14:10:30Data | Task: [UserController] Input sanitized to: testo
+14/05/2020 14:10:30Data | Tasks performed so far: 2
+14/05/2020 14:10:30Data | Task: [UserController] Creating user with first and last name: pesto, testo
+14/05/2020 14:10:30Data | Tasks performed so far: 3
+14/05/2020 14:10:30Data | Task: [AdminController] Saving to disk
+14/05/2020 14:10:30Data | Tasks performed so far: 4
+14/05/2020 14:11:04Data | Task: [UserController] Getting list of users
+14/05/2020 14:11:04Data | Tasks performed so far: 5
+14/05/2020 14:11:15Data | Task: [UserController] Getting list of users
+14/05/2020 14:11:15Data | Tasks performed so far: 6
+14/05/2020 14:11:22Data | Task: [UserController] Getting user details for ID: 419491121
+14/05/2020 14:11:22Data | Tasks performed so far: 7
+14/05/2020 14:11:38Data | Task: [UserController] Input sanitized to: Peston
+14/05/2020 14:11:38Data | Tasks performed so far: 8
+14/05/2020 14:11:38Data | Task: [UserController] Input sanitized to: Teston
+14/05/2020 14:11:38Data | Tasks performed so far: 9
+14/05/2020 14:11:38Data | Task: [UserController] Setting user with ID: 419491121 first and last name to: Peston, Teston
+14/05/2020 14:11:38Data | Tasks performed so far: 10
+14/05/2020 14:11:38Data | Task: [AdminController] Saving to disk
+14/05/2020 14:11:38Data | Tasks performed so far: 11
+24/05/2020 14:39:53Data | Task: [UserController] Input sanitized to: Testo
+24/05/2020 14:39:53Data | Tasks performed so far: 1
+24/05/2020 14:39:53Data | Task: [UserController] Input sanitized to: Pesto
+24/05/2020 14:39:53Data | Tasks performed so far: 2
+24/05/2020 14:39:53Data | Task: [UserController] Creating user with first and last name: Testo, Pesto
+24/05/2020 14:39:53Data | Tasks performed so far: 3
+24/05/2020 14:39:53Data | Task: [AdminController] Saving to disk
+24/05/2020 14:39:53Data | Tasks performed so far: 4
+24/05/2020 14:40:04Data | Task: [UserController] Getting list of users
+24/05/2020 14:40:04Data | Tasks performed so far: 5
+24/05/2020 14:40:08Data | Task: [UserController] Getting user details for ID: 8080273
+24/05/2020 14:40:08Data | Tasks performed so far: 6
+24/05/2020 14:40:13Data | Task: [UserController] Input sanitized to: Test
+24/05/2020 14:40:13Data | Tasks performed so far: 7
+24/05/2020 14:40:13Data | Task: [UserController] Input sanitized to: TE
+24/05/2020 14:40:13Data | Tasks performed so far: 8
+24/05/2020 14:40:13Data | Task: [UserController] Setting user with ID: 8080273 first and last name to: Test, TE
+24/05/2020 14:40:13Data | Tasks performed so far: 9
+24/05/2020 14:40:13Data | Task: [AdminController] Saving to disk
+24/05/2020 14:40:13Data | Tasks performed so far: 10
+24/05/2020 14:40:15Data | Task: [AccountController] Creating account for user ID: 8080273
+24/05/2020 14:40:15Data | Tasks performed so far: 11
+24/05/2020 14:40:15Data | Task: [AdminController] Saving to disk
+24/05/2020 14:40:15Data | Tasks performed so far: 12
+24/05/2020 14:40:20Data | Task: [AccountController] Getting list of accounts for user ID: 8080273
+24/05/2020 14:40:20Data | Tasks performed so far: 13
+24/05/2020 14:40:23Data | Task: [AccountController] Getting account details for ID: 434803569
+24/05/2020 14:40:23Data | Tasks performed so far: 14
+24/05/2020 14:40:27Data | Task: [AccountController] Depositing $500 into account with ID: 434803569
+24/05/2020 14:40:27Data | Tasks performed so far: 15
+24/05/2020 14:40:27Data | Task: [AdminController] Saving to disk
+24/05/2020 14:40:27Data | Tasks performed so far: 16
+24/05/2020 14:40:29Data | Task: [AccountController] Getting account details for ID: 434803569
+24/05/2020 14:40:29Data | Tasks performed so far: 17
+24/05/2020 14:40:31Data | Task: [AccountController] Withdrawing $50 from account with ID: 434803569
+24/05/2020 14:40:31Data | Tasks performed so far: 18
+24/05/2020 14:40:32Data | Task: [AdminController] Saving to disk
+24/05/2020 14:40:32Data | Tasks performed so far: 19
+24/05/2020 14:40:32Data | Task: [AccountController] Getting account details for ID: 434803569
+24/05/2020 14:40:32Data | Tasks performed so far: 20
+24/05/2020 14:40:51Data | Task: [AccountController] Getting list of accounts for user ID: 6276310
+24/05/2020 14:40:51Data | Tasks performed so far: 21
+24/05/2020 14:40:56Data | Task: [AccountController] Getting list of accounts for user ID: 380332324
+24/05/2020 14:40:56Data | Tasks performed so far: 22
+24/05/2020 14:41:15Data | Task: [AccountController] Getting list of accounts for user ID: 529492179
+24/05/2020 14:41:15Data | Tasks performed so far: 23
+24/05/2020 14:41:21Data | Task: [AccountController] Creating account for user ID: 529492179
+24/05/2020 14:41:21Data | Tasks performed so far: 24
+24/05/2020 14:41:22Data | Task: [AdminController] Saving to disk
+24/05/2020 14:41:22Data | Tasks performed so far: 25
+24/05/2020 14:41:23Data | Task: [AccountController] Getting list of accounts for user ID: 8080273
+24/05/2020 14:41:23Data | Tasks performed so far: 26
+24/05/2020 14:41:25Data | Task: [AccountController] Getting list of accounts for user ID: 529492179
+24/05/2020 14:41:25Data | Tasks performed so far: 27
+24/05/2020 14:41:30Data | Task: [AccountController] Getting account details for ID: 735591217
+24/05/2020 14:41:30Data | Tasks performed so far: 28
+24/05/2020 14:41:32Data | Task: [AccountController] Withdrawing $6000 from account with ID: 735591217
+24/05/2020 14:41:32Data | Tasks performed so far: 29
+24/05/2020 14:41:32 Data | Error: [AccountController] Not enough funds
+24/05/2020 14:41:32 Data | Tasks performed so far: 30
+24/05/2020 14:41:33Data | Task: [AdminController] Saving to disk
+24/05/2020 14:41:33Data | Tasks performed so far: 31
+24/05/2020 14:41:34Data | Task: [AccountController] Depositing $6000 into account with ID: 735591217
+24/05/2020 14:41:34Data | Tasks performed so far: 32
+24/05/2020 14:41:34Data | Task: [AdminController] Saving to disk
+24/05/2020 14:41:34Data | Tasks performed so far: 33
+24/05/2020 14:41:47Data | Task: [TransactionController] Sending $50 from user account ID: 735591217 to: 434803569
+24/05/2020 14:41:47Data | Tasks performed so far: 34
+24/05/2020 14:41:48Data | Task: [AdminController] Saving to disk
+24/05/2020 14:41:48Data | Tasks performed so far: 35
+24/05/2020 14:41:52Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:41:52Data | Tasks performed so far: 36
+24/05/2020 14:41:53Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:41:53Data | Tasks performed so far: 37
+24/05/2020 14:41:55Data | Task: [TransactionController] Retrieving transaction details for transaction ID: 954078448
+24/05/2020 14:41:55Data | Tasks performed so far: 38
+24/05/2020 14:41:59Data | Task: [TransactionController] Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:41:59Data | Tasks performed so far: 39
+24/05/2020 14:41:59Data | Task: [AdminController] Saving to disk
+24/05/2020 14:41:59Data | Tasks performed so far: 40
+24/05/2020 14:42:00Data | Task: [TransactionController] Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:00Data | Tasks performed so far: 41
+24/05/2020 14:42:00Data | Task: [AdminController] Saving to disk
+24/05/2020 14:42:00Data | Tasks performed so far: 42
+24/05/2020 14:42:00Data | Task: [TransactionController] Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:00Data | Tasks performed so far: 43
+24/05/2020 14:42:00Data | Task: [AdminController] Saving to disk
+24/05/2020 14:42:00Data | Tasks performed so far: 44
+24/05/2020 14:42:00Data | Task: [TransactionController] Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:00Data | Tasks performed so far: 45
+24/05/2020 14:42:00Data | Task: [AdminController] Saving to disk
+24/05/2020 14:42:00Data | Tasks performed so far: 46
+24/05/2020 14:42:01Data | Task: [TransactionController] Sending $5 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:01Data | Tasks performed so far: 47
+24/05/2020 14:42:01Data | Task: [AdminController] Saving to disk
+24/05/2020 14:42:01Data | Tasks performed so far: 48
+24/05/2020 14:42:01Data | Task: [TransactionController] Retrieving transaction details for transaction ID: 954078448
+24/05/2020 14:42:01Data | Tasks performed so far: 49
+24/05/2020 14:42:04Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:04Data | Tasks performed so far: 50
+24/05/2020 14:42:08Data | Task: [TransactionController] Retrieving transaction details for transaction ID: 591142441
+24/05/2020 14:42:08Data | Tasks performed so far: 51
+24/05/2020 14:42:11Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:11Data | Tasks performed so far: 52
+24/05/2020 14:42:13Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:13Data | Tasks performed so far: 53
+24/05/2020 14:42:13Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:13Data | Tasks performed so far: 54
+24/05/2020 14:42:17Data | Task: [TransactionController] Retrieving transaction details for transaction ID: 591142441
+24/05/2020 14:42:17Data | Tasks performed so far: 55
+24/05/2020 14:42:18Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:18Data | Tasks performed so far: 56
+24/05/2020 14:42:18Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:18Data | Tasks performed so far: 57
+24/05/2020 14:42:18Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:18Data | Tasks performed so far: 58
+24/05/2020 14:42:19Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:19Data | Tasks performed so far: 59
+24/05/2020 14:42:19Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:19Data | Tasks performed so far: 60
+24/05/2020 14:42:19Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:19Data | Tasks performed so far: 61
+24/05/2020 14:42:26Data | Task: [TransactionController] Sending $7 from user account ID: 735591217 to: 434803569
+24/05/2020 14:42:26Data | Tasks performed so far: 62
+24/05/2020 14:42:26Data | Task: [AdminController] Saving to disk
+24/05/2020 14:42:26Data | Tasks performed so far: 63
+24/05/2020 14:42:27Data | Task: [TransactionController] Retrieving transaction details for transaction ID: 591142441
+24/05/2020 14:42:27Data | Tasks performed so far: 64
+24/05/2020 14:42:28Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:42:28Data | Tasks performed so far: 65
+24/05/2020 14:42:30Data | Task: [TransactionController] Retrieving transaction details for transaction ID: 293808305
+24/05/2020 14:42:30Data | Tasks performed so far: 66
+24/05/2020 14:44:12Data | Task: [UserController] Getting list of users
+24/05/2020 14:44:12Data | Tasks performed so far: 1
+24/05/2020 14:44:18Data | Task: [AccountController] Getting list of accounts for user ID: 8080273
+24/05/2020 14:44:18Data | Tasks performed so far: 2
+24/05/2020 14:44:23Data | Task: [AccountController] Getting account details for ID: 434803569
+24/05/2020 14:44:23Data | Tasks performed so far: 3
+24/05/2020 14:44:31Data | Task: [AccountController] Getting list of accounts for user ID: 529492179
+24/05/2020 14:44:31Data | Tasks performed so far: 4
+24/05/2020 14:44:41Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:41Data | Tasks performed so far: 5
+24/05/2020 14:44:41Data | Task: [AdminController] Saving to disk
+24/05/2020 14:44:41Data | Tasks performed so far: 6
+24/05/2020 14:44:44Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:44Data | Tasks performed so far: 7
+24/05/2020 14:44:44Data | Task: [AdminController] Saving to disk
+24/05/2020 14:44:44Data | Tasks performed so far: 8
+24/05/2020 14:44:46Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:46Data | Tasks performed so far: 9
+24/05/2020 14:44:46Data | Task: [AdminController] Saving to disk
+24/05/2020 14:44:46Data | Tasks performed so far: 10
+24/05/2020 14:44:47Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:47Data | Tasks performed so far: 11
+24/05/2020 14:44:47Data | Task: [AdminController] Saving to disk
+24/05/2020 14:44:47Data | Tasks performed so far: 12
+24/05/2020 14:44:48Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:48Data | Tasks performed so far: 13
+24/05/2020 14:44:48Data | Task: [AdminController] Saving to disk
+24/05/2020 14:44:48Data | Tasks performed so far: 14
+24/05/2020 14:44:50Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:44:50Data | Tasks performed so far: 15
+24/05/2020 14:44:50Data | Task: [AdminController] Processing transactions
+24/05/2020 14:44:50Data | Tasks performed so far: 16
+24/05/2020 14:44:50Data | Task: [AdminController] Saving to disk
+24/05/2020 14:44:50Data | Tasks performed so far: 17
+24/05/2020 14:44:58Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:44:58Data | Tasks performed so far: 18
+24/05/2020 14:44:59Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:44:59Data | Tasks performed so far: 19
+24/05/2020 14:44:59Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:44:59Data | Tasks performed so far: 20
+24/05/2020 14:44:59Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:44:59Data | Tasks performed so far: 21
+24/05/2020 14:45:08Data | Task: [AccountController] Getting account details for ID: 735591217
+24/05/2020 14:45:08Data | Tasks performed so far: 22
+24/05/2020 14:45:13Data | Task: [AccountController] Getting account details for ID: 434803569
+24/05/2020 14:45:13Data | Tasks performed so far: 23
+24/05/2020 14:45:15Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:15Data | Tasks performed so far: 24
+24/05/2020 14:45:16Data | Task: [AdminController] Saving to disk
+24/05/2020 14:45:16Data | Tasks performed so far: 25
+24/05/2020 14:45:16Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:16Data | Tasks performed so far: 26
+24/05/2020 14:45:16Data | Task: [AdminController] Saving to disk
+24/05/2020 14:45:16Data | Tasks performed so far: 27
+24/05/2020 14:45:16Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:16Data | Tasks performed so far: 28
+24/05/2020 14:45:16Data | Task: [AdminController] Saving to disk
+24/05/2020 14:45:16Data | Tasks performed so far: 29
+24/05/2020 14:45:17Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:17Data | Tasks performed so far: 30
+24/05/2020 14:45:17Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:17Data | Tasks performed so far: 31
+24/05/2020 14:45:17Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:17Data | Tasks performed so far: 32
+24/05/2020 14:45:18Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:18Data | Tasks performed so far: 33
+24/05/2020 14:45:18Data | Task: [AdminController] Saving to disk
+24/05/2020 14:45:18Data | Tasks performed so far: 34
+24/05/2020 14:45:19Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:19Data | Tasks performed so far: 35
+24/05/2020 14:45:19Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:19Data | Tasks performed so far: 36
+24/05/2020 14:45:27Data | Task: [TransactionController] Sending $5 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:27Data | Tasks performed so far: 37
+24/05/2020 14:45:27Data | Task: [AdminController] Saving to disk
+24/05/2020 14:45:27Data | Tasks performed so far: 38
+24/05/2020 14:45:28Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:28Data | Tasks performed so far: 39
+24/05/2020 14:45:28Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:28Data | Tasks performed so far: 40
+24/05/2020 14:45:29Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:29Data | Tasks performed so far: 41
+24/05/2020 14:45:34Data | Task: [TransactionController] Sending $3 from user account ID: 434803569 to: 735591217
+24/05/2020 14:45:34Data | Tasks performed so far: 42
+24/05/2020 14:45:34Data | Task: [AdminController] Processing transactions
+24/05/2020 14:45:34Data | Tasks performed so far: 43
+24/05/2020 14:45:34Data | Task: [AdminController] Saving to disk
+24/05/2020 14:45:34Data | Tasks performed so far: 44
+24/05/2020 14:45:35Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:35Data | Tasks performed so far: 45
+24/05/2020 14:45:35Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:35Data | Tasks performed so far: 46
+24/05/2020 14:45:36Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:36Data | Tasks performed so far: 47
+24/05/2020 14:45:36Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:36Data | Tasks performed so far: 48
+24/05/2020 14:45:36Data | Task: [TransactionController] Getting transactions
+24/05/2020 14:45:36Data | Tasks performed so far: 49
+24/05/2020 14:45:41Data | Task: [AccountController] Getting account details for ID: 434803569
+24/05/2020 14:45:41Data | Tasks performed so far: 50
+29/05/2020 13:25:44Data | Task: [UserController] Input sanitized to: Kev
+29/05/2020 13:25:44Data | Tasks performed so far: 1
+29/05/2020 13:25:44Data | Task: [UserController] Input sanitized to: Tes
+29/05/2020 13:25:44Data | Tasks performed so far: 2
+29/05/2020 13:25:44Data | Task: [UserController] Creating user with first and last name: Kev, Tes
+29/05/2020 13:25:44Data | Tasks performed so far: 3
+29/05/2020 13:25:44Data | Task: [AdminController] Saving to disk
+29/05/2020 13:25:44Data | Tasks performed so far: 4

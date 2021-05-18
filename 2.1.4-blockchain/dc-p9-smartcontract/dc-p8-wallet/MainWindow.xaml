@@ -1,0 +1,25 @@
+﻿<Window x:Class="dc_p8_wallet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dc_p8_wallet"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="31,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Number of Blocks"/><Run Text=":"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="31,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Submit Task"/><Run Text=" "/><Run Text="d"/><Run Text="ef func():"/></TextBlock>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="31,272,0,0" VerticalAlignment="Top" Width="167" Click="SendClick"/>
+        <TextBlock x:Name="NumBlocksText" HorizontalAlignment="Left" Margin="139,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.456,1.326"/>
+        <TextBlock x:Name="Connection" HorizontalAlignment="Left" Margin="31,30,0,0" TextWrapping="Wrap" Text="Connecting..." VerticalAlignment="Top"/>
+        <TextBox x:Name="TaskText" HorizontalAlignment="Left" Height="136" Margin="31,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+        <ListBox Name="ResultBox" HorizontalAlignment="Left" Height="244" Margin="548,48,0,0" VerticalAlignment="Top" Width="218"/>
+        <TextBlock HorizontalAlignment="Left" Margin="223,27,0,0" TextWrapping="Wrap" Text="Output:" VerticalAlignment="Top" RenderTransformOrigin="0.2,1.062"/>
+        <TextBlock HorizontalAlignment="Left" Margin="548,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.2,1.062" Text="Job Results:"/>
+        <ListBox Name="Output" HorizontalAlignment="Left" Height="244" Margin="223,48,0,0" VerticalAlignment="Top" Width="305"/>
+
+    </Grid>
+</Window>

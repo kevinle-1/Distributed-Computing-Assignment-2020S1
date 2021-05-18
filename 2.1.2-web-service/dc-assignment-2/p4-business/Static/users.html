@@ -1,0 +1,49 @@
+﻿<!--
+ Filename: users.html
+ Project:  DC Assignment (COMP3008)
+ Purpose:  HTML for Users Web view
+ Author:   Kevin Le (19472960)
+
+ Date:     24/05/2020
+-->
+
+
+<h1>
+    Users
+</h1>
+
+<div class="CreateUser">
+    <h2>
+        Create User
+    </h2>
+
+    <input type="text" id="fName" placeholder="First Name" /><br>
+    <input type="text" id="lName" placeholder="Last Name" /><br>
+
+    <button id="submitBtn" onclick="CreateUser()">Create</button>
+</div>
+
+<div class="UserDetails">
+    <h2>
+        Get User Details
+    </h2>
+
+    <input type="number" min="0" step="1" id="id" placeholder="User ID" /><br>
+
+    <span><strong>First Name: </strong></span><span id="fName"></span><br>
+    <span><strong>Last Name: </strong></span><span id="lName"></span><br>
+
+    <button id="submitBtn" onclick="GetUserDetails()">Find</button>
+</div>
+
+<div class="UpdateUser">
+    <h2>
+        Update User Name
+    </h2>
+
+    <input type="number" min="0" step="1" id="id" placeholder="User ID" /><br>
+    <input type="text" id="fName" placeholder="New First Name" /><br>
+    <input type="text" id="lName" placeholder="New Last Name" /><br>
+
+    <button id="submitBtn" onclick="UpdateUserName()">Update</button>
+</div>

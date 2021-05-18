@@ -1,0 +1,21 @@
+/**
+* Filename: styles.css
+* Project:  DC Assignment 2020
+* Purpose:  Apply some styles to neaten things up + use Roboto (I like that font) 
+* Author:   Kevin Le (19472960)
+* Date:     22/05/2020
+*/
+
+* { 
+    font-family: Roboto, sans-serif;
+}
+
+.poster {
+    height: 150px;
+    width: 100px;
+}
+
+.mediaform .textinput *{
+    margin-top: 10px;
+    width: 400px; 
+}

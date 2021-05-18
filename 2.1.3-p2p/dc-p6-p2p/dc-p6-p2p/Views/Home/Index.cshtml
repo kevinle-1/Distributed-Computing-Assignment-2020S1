@@ -1,0 +1,57 @@
+﻿<!--
+ Filename: Index.cshtml
+ Project:  DC Assignment (COMP3008)
+ Purpose:  Index page to display leaderboard - Number of jobs completed by each client 
+ Author:   Kevin Le (19472960)
+
+ Date:     24/05/2020
+-->
+
+@{
+    ViewBag.Title = "P2P Leaderboard";
+}
+
+<script type="text/javascript" src="~/scripts/jquery-3.3.1.js"></script>
+<script>
+    window.onload = function GetLeaderboard() { //On load, get the leaderboard 
+        $.ajax(
+            {
+                url: "/api/Client/Clients",
+                type: "get",
+                contentType: "application/json",
+                processData: false,
+                success: function (clients, textStatus, jQxhr) {
+                    var leaderboard = document.getElementById("leaderboard");
+
+                    //Build table 
+                    clients.forEach(function (client, index) {
+                        var row = leaderboard.insertRow();
+                        var ip = row.insertCell();
+                        var port = row.insertCell();
+                        var count = row.insertCell();
+
+                        ip.innerHTML = client.ip;
+                        port.innerHTML = client.port;
+                        count.innerHTML = client.jobsCompleted;
+                    });
+                },
+                error: function (jqXhr, textStatus, errorThrown) {
+                    console.log(errorThrown);
+                    alert("Error: Could not retrieve clients")
+                }
+            });
+    }
+</script>
+
+<div>
+    <h1>P2P Leaderboard</h1>
+    <p>Refresh to view new clients!</p>
+
+    <table id="leaderboard" style="width:100%">
+        <tr>
+            <th>IP</th>
+            <th>Port</th>
+            <th>Jobs Completed</th>
+        </tr>
+    </table>
+</div>

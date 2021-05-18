@@ -1,0 +1,47 @@
+﻿<!--
+ Filename: accounts.html
+ Project:  DC Assignment (COMP3008)
+ Purpose:  HTML for Accounts Web view
+ Author:   Kevin Le (19472960)
+
+ Date:     24/05/2020
+-->
+
+<h1>
+    Accounts
+</h1>
+
+<div class="CreateAccount">
+    <h2>
+        Create Account
+    </h2>
+
+    <input type="number" min="0" step="1" id="id" placeholder="User ID" /><br>
+
+    <button id="submitBtn" onclick="CreateAccount()">Create</button>
+</div>
+
+<div class="AccountDetails">
+    <h2>
+        Get Account Details
+    </h2>
+
+    <input type="number" min="0" step="1" id="id" placeholder="Account ID" /><br>
+
+    <span><strong>User ID: </strong></span><span id="uid"></span><br>
+    <span><strong>Balance: $</strong></span><span id="bal"></span><br>
+
+    <button id="submitBtn" onclick="GetAccountDetails()">Find</button>
+</div>
+
+<div class="AccountTransaction">
+    <h2>
+        Deposit/ Withdraw
+    </h2>
+
+    <input type="number" min="0" step="1" id="id" placeholder="Account ID" /><br>
+    <input type="number" min="0" step="1" id="amount" placeholder="Amount" /><br>
+
+    <button id="submitBtn" onclick="Deposit()">Deposit</button>
+    <button id="submitBtn" onclick="Withdraw()">Withdraw</button>
+</div>

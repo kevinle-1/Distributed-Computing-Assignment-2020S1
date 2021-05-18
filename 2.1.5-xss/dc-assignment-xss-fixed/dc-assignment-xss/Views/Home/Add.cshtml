@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "The Movie DB: Add Media";
+}
+
+<!--
+ Filename: Add.cshtml
+ Project:  DC Assignment 2020
+ Purpose:  The Media DB add media page.
+ Author:   Kevin Le (19472960)
+
+ Date:     22/05/2020
+-->
+
+<div style="padding: 50px;">
+    <h1>The Media DB</h1>
+    <h3 style="margin-top: 25px;">Add media entry</h3>
+
+    <!--Add Media Form-->
+    <div class="mediaform">
+        <div class="textinput">
+            <input id="title" type="text" placeholder="Title"><br>
+            <textarea id="description" placeholder="Description"></textarea><br>
+            <input id="url" type="text" placeholder="Poster URL"><br>
+        </div>
+
+        <div id="mediaselect" style="margin-top: 10px;">
+            <input id="movie" type="radio" name="mediatype" value="Movie"> Movie<br>
+            <input id="tv" type="radio" name="mediatype" value="TV"> TV<br>
+        </div>
+
+    </div><button onclick="addEntry()" class="btn btn-success border rounded-0" type="button" style="margin-top: 25px;">Add</button>
+</div>
